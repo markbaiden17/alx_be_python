@@ -20,5 +20,5 @@ if time_bound == "yes":
 
 print("-" * 40)
 print("--- Daily Task Reminder ---")
-print(reminder_message)
+print(f"Reminder: {reminder_message}")
 print("-" * 40)
